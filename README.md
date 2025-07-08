@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfredo Junqueira</h1>
-<h3 align="center">A software developer passionate about tech</h3>
+<h3 align="center">Tech and AI enthusiast software developer</h3>
 
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/Alfredo-Junqueira-violet"> <img src="https://komarev.com/ghpvc/?username=alfredo-junqueira-75&label=Profile%20views&color=a10eb4&style=flat" alt="alfredo-junqueira-75" /> </p>
